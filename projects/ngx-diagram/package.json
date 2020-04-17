@@ -1,0 +1,32 @@
+{
+  "name": "ngx-diagram",
+  "version": "0.4.2",
+  "description": "An Angular 6 HTML+SVG based diagram editor component.",
+  "keywords": [
+    "Angular",
+    "Angular2+",
+    "diagram",
+    "editor",
+    "component",
+    "ngx",
+    "graph",
+    "network",
+    "drawing",
+    "Angular6"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzsm/ngx-diagram"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "dependencies": {
+    "elkjs": "^0.4.1",
+    "heap": "^0.2.6",
+    "fast-equals": "^1.6.1",
+    "transformation-matrix": "^1.14.1"
+  }
+}
